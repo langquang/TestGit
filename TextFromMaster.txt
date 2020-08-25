@@ -9,4 +9,5 @@ Add from Test 2_3
 Add from Brach 1 2_4
 Master 1_5
 Add from Brach 1 2_5
+Add from Brach 2 2_6
 Master 1_6
