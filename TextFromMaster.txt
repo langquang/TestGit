@@ -1,3 +1,4 @@
 This is text from master
 
+Add from Test 1
 Add from Test 2
